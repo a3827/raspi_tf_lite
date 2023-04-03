@@ -1,0 +1,22 @@
+
+[230403]
+
+https://towardsdatascience.com/3-ways-to-install-tensorflow-2-on-raspberry-pi-fe1fa2da9104
+
+https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9
+
+Ready to use example
+https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588
+
+https://www.tensorflow.org/lite/models/modify/model_maker/object_detection
+
+
+
+GPU	Broadcom VideoCore VI
+RAM	1GB, 2GB or 4GB LPDDR4(depending on model)
+Software Compatibility	-Compatible with TensorFlow (Has documentation and courses for the RPi 4)
+Additional Features	– Compatible with Coral USB Accelerator to further speed up the
+	RPi 4 machine learning capabilities
+	– Compatible with Google’s Artificial Intelligence Yourself (AIY) kits.
+
+	
